@@ -1,10 +1,10 @@
-import Lezione from "./lezioni/1-useState/inizio/3-useState-array";
+import Inizio from "./lezioni/2-useEffect/inizio/3-useEffect-fetch-data";
 
 function App() {
   return (
     <div className="App">
       <section className="container text-center my-3">
-        <Lezione />
+        <Inizio />
       </section>
     </div>
   );
